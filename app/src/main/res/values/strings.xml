@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Matrix</string>
+    <string name="example">salam</string>
+    <string name="ad_daxil_edin">Adı daxil edin!</string>
+
+    <string-array name="spinner">
+        <item>Kişi</item>
+        <item>Qadın</item>
+    </string-array>
+</resources>
