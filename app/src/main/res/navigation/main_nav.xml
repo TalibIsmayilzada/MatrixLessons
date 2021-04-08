@@ -16,6 +16,7 @@
             app:destination="@id/loginFragment"
             app:enterAnim="@anim/enter_from_right"
             app:popUpTo="@id/main_nav"
+            app:launchSingleTop="true"
             app:popUpToInclusive="true"
             app:exitAnim="@anim/exit_to_left"
             app:popEnterAnim="@anim/enter_from_left"

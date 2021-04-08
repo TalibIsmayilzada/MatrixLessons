@@ -1,26 +1,53 @@
 
 O
-java:S1128"3Remove this unused import 'android.content.Intent'.(³ğ‹G8¿– ¾Š/
-P
-java:S1128".Remove this unused import 'android.view.View'.(Ø½­äşÿÿÿÿ8¿– ¾Š/
+java:S1128"3Remove this unused import 'android.content.Intent'.(³ğ‹G8úİ“‘‹/
+Q
+java:S1128"4Remove this unused import 'android.widget.EditText'.(†Å›Ú8¤Ç“‘‹/
+{
+java:S11920"YDefine a constant instead of duplicating this literal "Super Flash Sale 50% Off" 3 times.(˜™“œÿÿÿÿÿ8Ã«Š“‹/
 b
-java:S1128"@Remove this unused import 'androidx.core.content.ContextCompat'.(üäÂùÿÿÿÿ8©¬Âö‡/
-Q
-java:S1128"4Remove this unused import 'android.widget.EditText'.(†Å›Ú8ıãïˆ/
-Q
-java:S1128"4Remove this unused import 'android.content.Context'.(©Ê‰è8ıãïˆ/
-X	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±8Ì×òô‡/
-U
-java:S1128"3Remove this unused import 'android.widget.Spinner'.(¸£ÃØüÿÿÿÿ8æŒğˆ/
-R
-java:S1128"5Remove this unused import 'com.bumptech.glide.Glide'.(Ñˆ…Ë8¤ô‰ñˆ/
-T
-java:S1128"7Remove this unused import 'android.widget.AdapterView'.(¶¾éæ8æŒğˆ/
+java:S1128"@Remove this unused import 'androidx.navigation.ui.NavigationUI'.(„¾¯Êüÿÿÿÿ8øĞ£‘‹/
 V
-java:S1128"4Remove this unused import 'android.widget.TextView'.(„Ë‚ˆÿÿÿÿÿ8ƒÔãïˆ/
-n
-java:S1192 "LDefine a constant instead of duplicating this literal "fsdfsdfsdfs" 6 times.(î¤ ğúÿÿÿÿ8±Ñ¿Š/
-W
-java:S1128"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ8¤ô‰ñˆ/
+java:S1128"4Remove this unused import 'android.widget.TextView'.(„Ë‚ˆÿÿÿÿÿ8ÛÚ‘‹/
+Y
+java:S1128"7Remove this unused import 'android.widget.TableLayout'.(İ´‘úÿÿÿÿÿ8÷£û‘‹/
+O
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8ş…ñ‘‹/
 ^
-java:S1128"ARemove this unused import 'androidx.databinding.DataBindingUtil'.(Ë…©8«ğŸÀŠ/
+java:S1128"ARemove this unused import 'androidx.databinding.DataBindingUtil'.(Ë…©8«ğŸÀŠ/
+T
+java:S1128"7Remove this unused import 'android.widget.AdapterView'.(¶¾éæ8æŒğˆ/
+€
+java:S1128"^Remove this unused import 'com.google.android.material.bottomnavigation.BottomNavigationView'.(ºØÇÿÿÿÿÿ8†•½‘‹/
+]
+java:S1128
+";Remove this unused import 'androidx.navigation.Navigation'.(ÄíÚÀÿÿÿÿÿ8øĞ£‘‹/
+P
+java:S1128".Remove this unused import 'android.view.View'.(Ø½­äşÿÿÿÿ8¥ºñ‘‹/
+U
+java:S1128"3Remove this unused import 'android.widget.Spinner'.(¸£ÃØüÿÿÿÿ8æŒğˆ/
+V
+java:S1128"9Remove this unused import 'androidx.annotation.Nullable'.(¾Èêš8úİ“‘‹/
+R
+java:S1128"5Remove this unused import 'com.bumptech.glide.Glide'.(Ñˆ…Ë8¤ô‰ñˆ/
+k
+java:S1128"IRemove this unused import 'androidx.navigation.fragment.NavHostFragment'.(ĞÖØ–ıÿÿÿÿ8¬Ü‘‹/
+W
+java:S1128"5Remove this unused import 'android.widget.ImageView'.(ú¯ëàüÿÿÿÿ8¤ô‰ñˆ/
+Q
+java:S1128"4Remove this unused import 'android.content.Context'.(©Ê‰è8ıãïˆ/
+X	java:S110%"<This class has 9 parents which is greater than 5 authorized.(²Ú±8Ì×òô‡/
+U
+java:S1128"8Remove this unused import 'androidx.annotation.NonNull'.(ˆÛúÜ8Æ¨©‘‹/
+]
+java:S1128";Remove this unused import 'androidx.fragment.app.Fragment'.(‚Š©“ùÿÿÿÿ8ÑÆ¬’‹/
+T
+java:S1128"2Remove this unused import 'android.widget.Button'.(²òıÿÿÿÿ8¥ºñ‘‹/
+b
+java:S1128"@Remove this unused import 'androidx.core.content.ContextCompat'.(üäÂùÿÿÿÿ8©¬Âö‡/
+S
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8¢ùë‹/
+`
+java:S1128	">Remove this unused import 'androidx.navigation.NavController'.(ˆç×ƒÿÿÿÿÿ8øĞ£‘‹/
+O
+java:S1128"2Remove this unused import 'android.view.MenuItem'.(Ğ¬Ó‘8Æ¨©‘‹/

@@ -23,3 +23,17 @@ c
 3app/src/main/java/com/talib/matrix/LoginFragment.kt,f/7/f726eb49cf7cf76414d99b5864896398f9676cd7
 f
 6app/src/main/java/com/talib/matrix/PreferenceHelper.kt,b/c/bcfe9f6a82cb2db4a926bdbe0217290e511f90d2
+d
+4app/src/main/java/com/talib/matrix/SearchFragment.kt,6/3/633f250aeee6d83fce01ebd5e41cfe25cf0a5aed
+e
+5app/src/main/java/com/talib/matrix/ProfileFragment.kt,7/2/72235951decbf7f5abb88976ea7fbeab9e5b618d
+b
+2app/src/main/java/com/talib/matrix/HomeFragment.kt,8/5/8550c03d3aafa910d0f80eaa4f4d5d7320c84001
+c
+3app/src/main/java/com/talib/matrix/ViewPagerList.kt,7/e/7e1eab5e1fa8b3ef69fcac3fbf2049d6006ee6db
+h
+8app/src/main/java/com/talib/matrix/MyViewPagerAdapter.kt,c/5/c550baedf164f7ae635e711deffc34dcc7bd8c5e
+`
+0app/src/main/java/com/talib/matrix/SalesModel.kt,6/6/6690658d4b28fd7b3607048641054f68575209d9
+f
+6app/src/main/java/com/talib/matrix/ItemPagerAdapter.kt,b/9/b9bf599a56fd24a22eb48fb8b86ad927999a5afb
