@@ -10,6 +10,9 @@ import androidx.navigation.NavController;
 import androidx.navigation.Navigation;
 import androidx.navigation.fragment.NavHostFragment;
 import androidx.navigation.ui.NavigationUI;
+import androidx.recyclerview.widget.GridLayoutManager;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewpager.widget.ViewPager;
 
 import android.content.Context;
@@ -55,12 +58,34 @@ public class MainActivity extends AppCompatActivity {
 
         ViewPager viewPager = findViewById(R.id.viewPager);
         TabLayout tabLayout = findViewById(R.id.indicator);
+        RecyclerView categoryRecylcer = findViewById(R.id.categoryRecylcer);
 
         ItemPagerAdapter itemPagerAdapter = new ItemPagerAdapter(list);
 
         viewPager.setAdapter(itemPagerAdapter);
 
         tabLayout.setupWithViewPager(viewPager);
+
+        List<String> titleList = new ArrayList<>();
+
+        List<Integer> iconList = new ArrayList<>();
+
+
+
+        titleList.add("Man Shirt");
+        titleList.add("Dress");
+        titleList.add("Man Work Equipment");
+        titleList.add("Woman Bag");
+
+        iconList.add(R.drawable.ic_group);
+        iconList.add(R.drawable.ic_group2);
+        iconList.add(R.drawable.ic_group);
+        iconList.add(R.drawable.ic_group2);
+
+        MyRecyclerAdapter adapter = new MyRecyclerAdapter(titleList,iconList);
+        GridLayoutManager gridLayoutManager = new GridLayoutManager(this,2,GridLayoutManager.VERTICAL,false);
+        categoryRecylcer.setLayoutManager(gridLayoutManager);
+        categoryRecylcer.setAdapter(adapter);
 
     }
 

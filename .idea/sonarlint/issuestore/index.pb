@@ -37,3 +37,9 @@ h
 0app/src/main/java/com/talib/matrix/SalesModel.kt,6/6/6690658d4b28fd7b3607048641054f68575209d9
 f
 6app/src/main/java/com/talib/matrix/ItemPagerAdapter.kt,b/9/b9bf599a56fd24a22eb48fb8b86ad927999a5afb
+Y
+)app/src/main/java/com/talib/matrix/App.kt,c/1/c1db5d14d7577728dd6f063a9f522e02279324bf
+`
+0app/src/main/java/com/talib/matrix/model/User.kt,d/2/d2c0ba73d99edbc13ac9046e3ba0c8305ec25ebb
+e
+5app/src/main/java/com/talib/matrix/ExampleActivity.kt,7/8/782ce5bb84d8349cdcdaa0c2e9dea0d3bf024671
